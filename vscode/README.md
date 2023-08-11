@@ -1,18 +1,14 @@
 # Our Visual Studio Code Settings
 
-Welcome to our Visual Studio Code (VS Code) settings installation guide! The configurations in the `settings.json` file we provide you in this Git Repository (Git Repo) on GitHub will help maintain consistency across our development environment, aligning with the project's coding standards and enhancing the overall efficiency of the development process.
+Welcome to our Visual Studio Code (VS Code) settings installation guide! The configurations in the `settings.json` file we provide you in this Git repository (repo) on GitHub will help maintain consistency across our development environment, aligning with the project's coding standards and enhancing the overall efficiency of the development process.
 
-# Directions
-
-- Link: Git Repo [github.com/destacks/settings](https://github.com/destacks/settings)
-- Link: `vscode` settings folder: [github.com/destacks/settings/vscode](https://github.com/destacks/settings/vscode)
-- Link: `vscode` settings file: [github.com/destacks/settings/vscode/settings.json](https://github.com/destacks/settings/vscode/settings.json)
+**Link to the Git repo:** [github.com/destacks/settings](https://github.com/destacks/settings)
 
 # Installation
 
 ## Step 1: Download the `settings.json` File
 
-1. If not already in front of you, navigate to the corresponding GitHub Repo [GitHub Repo](https://github.com/destacks/settings).
+1. If not already in front of you, navigate to the corresponding Git repo on [GitHub](https://github.com/destacks/settings).
 2. Locate the `settings.json` file and download it to your local machine.
 
 ## Step 2: Open VS Code
