@@ -1,2 +1,3 @@
 # settings
-Settings with Use in Our Project and Tools
+
+## Settings with Use in Our Projects and Tools
